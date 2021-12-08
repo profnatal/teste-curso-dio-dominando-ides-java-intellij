@@ -22,9 +22,6 @@ public class primeiroprojeto {
 
 }
 
-class Livros { 
-	private String name;
-	private String npag;
-	
+class Livros {
 	
 }
